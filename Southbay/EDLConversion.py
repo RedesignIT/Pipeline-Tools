@@ -10,7 +10,7 @@ class EDLConversion:
         self.FRAMERATE = 24
         self.FRAMESTART = 990
         self.FRAMEHANDLE = 10
-        self.EDL = r"C:\Users\Wade\Desktop\Sc090_TURNOVER_FIXED.edl"
+        self.EDL = r""
         # self.EDL = sys.argv[1]
         self.CSV_VALUES = [
             'Shot Code', 'Client Source File', 'Source', 'slopeR', 'slopeG', 'slopeB', 'offsetR', 'offsetG', 'offsetB',
